@@ -1,0 +1,6 @@
+23,April,2010 by Fillano Feng (Hsu Ping Feng)
+depend on: v8-juice
+to use the testcase:
+1. you should have built and installed v8-juice with curl plugin.
+2. enter the test directory, change the source with your api key, account and password for plurk.com.
+3. use v8-juice-shell [filename] to run the testcase.
